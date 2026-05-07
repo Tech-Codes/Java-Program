@@ -32,11 +32,12 @@ java -version
 
 # Project Structure
 
+```text
 SnakeGame/
 │
 ├── Board.java
 └── README.md
-
+```
 ---
 
 # Compile the Program
