@@ -1,4 +1,4 @@
-# Snake Game - README
+# Snake Game
 
 ## About
 
@@ -32,12 +32,10 @@ java -version
 
 # Project Structure
 
-```text
 SnakeGame/
 │
 ├── Board.java
 └── README.md
-```
 
 ---
 
@@ -47,7 +45,7 @@ Open terminal in project folder and run:
 
 ```bash
 javac Board.java
-```
+
 
 ---
 
